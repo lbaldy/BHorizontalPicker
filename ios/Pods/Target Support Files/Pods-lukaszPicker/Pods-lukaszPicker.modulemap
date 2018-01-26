@@ -1,0 +1,6 @@
+framework module Pods_lukaszPicker {
+  umbrella header "Pods-lukaszPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
